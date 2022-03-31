@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\x\Desktop\图形\学习项目\Cube\x64\Debug\Cube.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\图形\学习项目\Cube\x64\Debug\PS_Cube.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\x\Desktop\图形\学习项目\Cube\x64\Debug\VS_Cube.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
