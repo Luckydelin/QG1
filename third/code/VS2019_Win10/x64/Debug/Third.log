@@ -1,0 +1,31 @@
+﻿  compilation object save succeeded; see C:\Users\x\Desktop\小组\third\third\code\HLSL\Third_2D_PS.cso
+  compilation object save succeeded; see C:\Users\x\Desktop\小组\third\third\code\HLSL\Third_2D_VS.cso
+  compilation object save succeeded; see C:\Users\x\Desktop\小组\third\third\code\HLSL\Third_3D_PS.cso
+C:\Users\x\Desktop\С��\third\third\code\HLSL\Third_3D_VS.hlsl(13,5-62): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\x\Desktop\小组\third\third\code\HLSL\Third_3D_VS.cso
+  d3dApp.cpp
+  d3dUtil.cpp
+  DDSTextureLoader.cpp
+  DXTrace.cpp
+  GameApp.cpp
+C:\Users\x\Desktop\小组\third\third\code\GameApp.cpp(338,113): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\x\Desktop\小组\third\third\code\GameApp.cpp(338,81): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\x\Desktop\小组\third\third\code\GameApp.cpp(344,109): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\x\Desktop\小组\third\third\code\GameApp.cpp(359,21): warning C4018: “<”: 有符号/无符号不匹配
+  GameTimer.cpp
+  Keyboard.cpp
+  Main.cpp
+  Mouse.cpp
+  Vertex.cpp
+  WICTextureLoader.cpp
+  正在生成代码...
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  正在生成代码...
+  Third.vcxproj -> C:\Users\x\Desktop\小组\third\third\code\Third.exe
